@@ -44,6 +44,7 @@ st.info(f"**Concept / Sub-Topic:** \n### {card['sub_topic']}")
 
 # 5. Display the "Back" of the card (Hidden until clicked)
 with st.expander("👀 Reveal Answer / Details"):
+    st.success(f"**Study Content:** {card.get('study_content', 'Content coming soon...')}")
     st.write(f"**MCL Codes:** {card['mcl_codes']}")
     st.write(f"**Exam Weight:** {card['percentage']}")
     st.write(f"**Number of Items:** {card['num_items']}")
