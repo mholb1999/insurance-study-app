@@ -65,7 +65,7 @@ if not filtered_df.empty and 0 <= st.session_state.card_index < len(filtered_df)
     # Display the "Back" of the card (Hidden until clicked)
     # Use a unique key for the expander to prevent state issues across cards
     expander_key = f"expander_{st.session_state.card_index}_{st.session_state.answer_revealed}"
-    with st.expander("👀 Reveal Answer / Details", expanded=st.session_state.answer_revealed, key=expander_key):
+    with st.expander("👀 Reveal Answer / Details", expanded=st.session_state.answer_revealed):
         st.session_state.answer_revealed = True # Mark as revealed when expander is open
 
         # !!! UPDATED: Display correct answer and explanation !!!
