@@ -6,7 +6,7 @@ import random
 # Set up the mobile-friendly page layout
 st.set_page_config(page_title="Insurance Study App", layout="centered")
 
-st.title("Insurance Study App 📚")
+st.title("Ashley's Insurance Study App 📚")
 
 # 1. Load the data (and cache it so it's fast)
 @st.cache_data
@@ -23,8 +23,9 @@ except Exception as e:
 # 2. Build the UI
 st.write("### 🧠 Flashcard Mode")
 
-# Let the user filter by the main topic
-topic = st.selectbox("Select a Topic:", df['main_topic'].unique())
+# Let the user filter by the main topic using a mobile-friendly touch menu
+with st.expander("👇 Tap Here to Change Topic", expanded=False):
+    topic = st.radio("Available Topics:", df['main_topic'].unique())
 
 # Filter the data based on the selection
 filtered_df = df[df['main_topic'] == topic].reset_index(drop=True)
