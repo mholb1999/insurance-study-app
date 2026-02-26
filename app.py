@@ -15,9 +15,14 @@ try:
     
     st.success("Data loaded successfully!")
     
-    # Display a simple dropdown to test interactivity
-    topic = st.selectbox("Choose a topic to preview:", df['Main Topic'].unique())
-    st.write(df[df['Main Topic'] == topic])
+    # DIAGNOSTIC STEP: Print the exact column names
+    st.subheader("Diagnostic Info:")
+    st.write("Your exact column names are:")
+    st.write(df.columns.tolist())
+    
+    # Display the raw table
+    st.write("Raw Data Preview:")
+    st.dataframe(df)
     
 except Exception as e:
-    st.error(f"Couldn't load the data. Error: {e}")
+    st.error(f"Error: {e}")
