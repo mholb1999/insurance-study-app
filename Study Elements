@@ -1,0 +1,751 @@
+[
+    {
+        "main_topic":"Company Regulation",
+        "sub_topic":"Producer Appointment",
+        "mcl_codes":"500.1208a, .1208b, .1209, .1411",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Company Regulation",
+        "sub_topic":"Termination of Appointment",
+        "mcl_codes":"500.1208b, .1209",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Producer Regulation",
+        "sub_topic":"Duties",
+        "mcl_codes":"500.1201a, .1202",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Producer Regulation",
+        "sub_topic":"Commissions",
+        "mcl_codes":"500.1240, .2011",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Producer Regulation",
+        "sub_topic":"Types of Licensees",
+        "mcl_codes":"500.1206",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Producer Regulation",
+        "sub_topic":"Producer",
+        "mcl_codes":"500.240, 500.1201, .1201a, .1204, .1205, .1206, .1206b, .1240",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Producer Regulation",
+        "sub_topic":"Counselor",
+        "mcl_codes":"500.1232, .1234, .1236",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Producer Regulation",
+        "sub_topic":"Business Entity",
+        "mcl_codes":"500.1201, .1205",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Maintenance and Duration",
+        "sub_topic":"Reporting of Actions",
+        "mcl_codes":"500.1208b, .1239, .1244, .1246, .1247",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Maintenance and Duration",
+        "sub_topic":"Assumed Names",
+        "mcl_codes":"500.1211a",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Maintenance and Duration",
+        "sub_topic":"Continuing Education Requirements",
+        "mcl_codes":"500.1204, .1204c, .1204d, .1204e, .1204f, .1206",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Cease and Desist Order",
+        "mcl_codes":"500.1244, .2038",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Suspension, Revocation, Refusal to Issue or Renew",
+        "mcl_codes":"500.1200, .1209, .1239, .1244, .1379, .2029, .2043",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Penalties and Fines",
+        "mcl_codes":"500.1242, .1244, .1379, .2038, .2040, .2064, .2069",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Unfair Insurance Trade Practices",
+        "mcl_codes":"500.1239, .1244, .2003, .2006-.2014, .2016-.2021, .2026, .2029",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Misrepresentation",
+        "mcl_codes":"500.2005, .2005a, .2055, .2057, .2064, .2218",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"False Information and Advertising",
+        "mcl_codes":"500.2001, .2002, .2005, .2005a, .2007, .2055, .2057, .2064; R500.651-.669; R500.1371-.1387",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"False Statement",
+        "mcl_codes":"500.1015, .2014, .2018, .2055, .2062, .2474, .2666",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Deception",
+        "mcl_codes":"500.2007, .2009; 600.2911",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Boycott, Coercion, and Intimidation",
+        "mcl_codes":"500.1242, .2012",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Unfair Discrimination",
+        "mcl_codes":"500.2019, .2020, .2027, .2082",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Rebating",
+        "mcl_codes":"500.2024, .2024a, .2066, .2069, .2070",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Fiduciary Responsibilities",
+        "mcl_codes":"500.1207",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Forgery",
+        "mcl_codes":"500.1239",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Insurance Fraud Regulation",
+        "mcl_codes":"500.2088, .4501, .4503, .4507, .4509, .4511, .8197; 752.1003, .1005",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Disciplinary Actions",
+        "sub_topic":"Consumer Privacy Regulation",
+        "mcl_codes":"500.501, .503, .505, .507, .513, .515, .533, .535, .2005a, .4501, .4507, .4509; R500.551-.560",
+        "percentage":"11%",
+        "num_items":"17"
+    },
+    {
+        "main_topic":"Michigan Life Insurance Laws",
+        "sub_topic":"Insurable Interest",
+        "mcl_codes":"500.2207, .2211",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Michigan Life Insurance Laws",
+        "sub_topic":"Solicitation and Sales Presentations",
+        "mcl_codes":"500.1371-.1383",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Michigan Life Insurance Laws",
+        "sub_topic":"Advertising",
+        "mcl_codes":"R500.1371-.1387",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Michigan Life Insurance Laws",
+        "sub_topic":"Life and Health Insurance Guaranty Association",
+        "mcl_codes":"500.7702",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Buyer's Guides for Life Insurance and Annuities",
+        "sub_topic":"Replacement",
+        "mcl_codes":"R500.601-.606",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Use and Disclosure of Insurance Information",
+        "sub_topic":"Selection Criteria and Unfair Discrimination",
+        "mcl_codes":"500.2027",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Attending Physician Statement",
+        "sub_topic":"Medical Information Bureau",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Whole Life Insurance",
+        "sub_topic":"Continuous Premium",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Life Insurance Policy Law",
+        "sub_topic":"Group Life Conversion to Individual Policy",
+        "mcl_codes":"500.4438",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Life Insurance Policy Law",
+        "sub_topic":"Universal Life",
+        "mcl_codes":"500.4001, .4037, .4038",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Assignment",
+        "sub_topic":"Entire Contract",
+        "mcl_codes":"500.4014",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Modifications",
+        "sub_topic":"Payment of Premiums",
+        "mcl_codes":"500.4010",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Modifications",
+        "sub_topic":"Grace Period",
+        "mcl_codes":"500.4012",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Modifications",
+        "sub_topic":"Reinstatement",
+        "mcl_codes":"500.4028",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Modifications",
+        "sub_topic":"Incontestability",
+        "mcl_codes":"500.4014",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Modifications",
+        "sub_topic":"Misstatement of Age Or Gender",
+        "mcl_codes":"500.4018",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Modifications",
+        "sub_topic":"Exclusions and Restrictions",
+        "mcl_codes":"500.4046",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Modifications",
+        "sub_topic":"Interest on Insurance Proceeds",
+        "mcl_codes":"500.4060",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Disability Riders",
+        "sub_topic":"Waiver of Premium\/Waiver of Stipulated Premium",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Disability Income Benefit",
+        "sub_topic":"Payor Benefit Life\/Disability",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Disability Income Benefit",
+        "sub_topic":"Living Benefit Provisions\/Riders",
+        "mcl_codes":"500.3928, .3949",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Immediate versus Deferred Annuities",
+        "sub_topic":"Single Premium Immediate Annuities",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"General Account Assets",
+        "sub_topic":"Interest Rate Guarantees",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"Equity Indexed Annuities",
+        "sub_topic":"Market Value Adjusted Annuities",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"Personal Uses",
+        "sub_topic":"Individual Retirement Accounts",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"Individually-Owned",
+        "sub_topic":"Accumulation Phase",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"Corporate-Owned",
+        "sub_topic":"Taxation of Individual Retirement Accounts",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"Contributions and Deductible Amounts",
+        "sub_topic":"Premature Distributions",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"Distributions",
+        "sub_topic":"Rollovers and Transfers",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"General Requirements for Qualified Retirement Plans",
+        "sub_topic":"Taxation of Distributions",
+        "mcl_codes":null,
+        "percentage":"4%",
+        "num_items":"6"
+    },
+    {
+        "main_topic":"Critical Illness",
+        "sub_topic":"Hospital Indemnity",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Credit Disability",
+        "sub_topic":"Blanket Insurance",
+        "mcl_codes":"500.701, .3400, .3402d, .3402e, .3402f, .3402g",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Marketing Requirements",
+        "sub_topic":"Advertising",
+        "mcl_codes":"R500.651-.658, .660-.668",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Marketing Requirements",
+        "sub_topic":"Life and Health Insurance Guaranty Association",
+        "mcl_codes":"500.7702",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Marketing Requirements",
+        "sub_topic":"Outline of Coverage",
+        "mcl_codes":"R500.656-.658, .661",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Investigative Consumer Report",
+        "sub_topic":"Medical Information Bureau",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Medical Examinations and Lab Tests",
+        "sub_topic":"Use of Genetic Information",
+        "mcl_codes":"500.3407b",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Required Provisions",
+        "sub_topic":"Time Limit on Certain Defenses",
+        "mcl_codes":"500.3408",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Required Provisions",
+        "sub_topic":"Grace Period",
+        "mcl_codes":"500.3410",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Required Provisions",
+        "sub_topic":"Reinstatement",
+        "mcl_codes":"500.3411",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Required Provisions",
+        "sub_topic":"Claim Procedures",
+        "mcl_codes":"500.2006, .3412-.3418",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Required Provisions",
+        "sub_topic":"Physical Examinations and Autopsy",
+        "mcl_codes":"500.3420",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Required Provisions",
+        "sub_topic":"Legal Actions",
+        "mcl_codes":"500.1247, 3422",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Optional Provisions",
+        "sub_topic":"Change of Occupation",
+        "mcl_codes":"500.3432",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Optional Provisions",
+        "sub_topic":"Misstatement of Age",
+        "mcl_codes":"500.2218, .3434",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Optional Provisions",
+        "sub_topic":"Other Insurance in this Insurer",
+        "mcl_codes":"500.3436",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Insurance with Other Insurers",
+        "sub_topic":"Unpaid Premium",
+        "mcl_codes":"500.3446",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Insurance with Other Insurers",
+        "sub_topic":"Conformity with State Statutes",
+        "mcl_codes":"500.3450",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Insurance with Other Insurers",
+        "sub_topic":"Illegal Occupation",
+        "mcl_codes":"500.3452",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Other General Provisions",
+        "sub_topic":"Renewability Clause",
+        "mcl_codes":"500.2213b; R500.658",
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Basic Total Disability Plan",
+        "sub_topic":"Income Benefits",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Group versus Individual Plans",
+        "sub_topic":"Short-Term Disability",
+        "mcl_codes":null,
+        "percentage":"10%",
+        "num_items":"15"
+    },
+    {
+        "main_topic":"Types of Plans",
+        "sub_topic":"Major Medical Insurance",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Provisions affecting Cost to Insured",
+        "sub_topic":"Health Maintenance Organizations",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Preventive Care Services",
+        "sub_topic":"Primary Care Physician",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Other Basic Services",
+        "sub_topic":"Preferred Provider Organizations",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Utilization Review",
+        "sub_topic":"Precertification Authorization",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Step Therapy",
+        "sub_topic":"Michigan Eligibility Requirements",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Step Therapy",
+        "sub_topic":"Dependent Child Age Limit",
+        "mcl_codes":"500.2264, .3402, .3406h",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Step Therapy",
+        "sub_topic":"Newborn Child Coverage",
+        "mcl_codes":"500.3403",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Step Therapy",
+        "sub_topic":"Adopted Children",
+        "mcl_codes":"500.4426",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Group Contract",
+        "sub_topic":"Certificate of Coverage",
+        "mcl_codes":"500.3402",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Individual Employer Groups",
+        "sub_topic":"Associations",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Individual Employer Groups",
+        "sub_topic":"Customer Groups",
+        "mcl_codes":null,
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Dependent Eligibility",
+        "sub_topic":"Coordination of Benefits Provision",
+        "mcl_codes":"500.3402b, 500.3406s; 550.251-.255",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Events that Terminate Coverage",
+        "sub_topic":"Continuation of Coverage under COBRA and Michigan Specific Rules",
+        "mcl_codes":"500.3708",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Small Employer Medical Plans",
+        "sub_topic":"Definition of Small Employer",
+        "mcl_codes":"500.3701",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Small Employer Medical Plans",
+        "sub_topic":"Eligibility of Employees",
+        "mcl_codes":"500.3701, .3707",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Small Employer Medical Plans",
+        "sub_topic":"Renewability",
+        "mcl_codes":"500.3701, .3711",
+        "percentage":"9%",
+        "num_items":"14"
+    },
+    {
+        "main_topic":"Enrollment",
+        "sub_topic":"Medicare Supplements",
+        "mcl_codes":"500.3803-.3835, .3839-.3861",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Custodial Care",
+        "sub_topic":"Home Health Care or Assisted Living",
+        "mcl_codes":"500.3913",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Return of Premium",
+        "sub_topic":"Qualified LTC Plans",
+        "mcl_codes":null,
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Michigan Regulations and Required Provisions",
+        "mcl_codes":"500.3901-.3955",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Standards for Marketing",
+        "mcl_codes":"500.3942",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Shopper's Guide",
+        "mcl_codes":"500.3937",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Summary of Coverage",
+        "mcl_codes":"500.3933",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Required Disclosure Provisions",
+        "mcl_codes":"500.3923",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Replacement",
+        "mcl_codes":"500.3917",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Right to Return",
+        "mcl_codes":"500.3943",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Underwriting Considerations",
+        "sub_topic":"Inflation Protection",
+        "mcl_codes":"500.3909",
+        "percentage":"8%",
+        "num_items":"12"
+    },
+    {
+        "main_topic":"Employer Group Health Insurance",
+        "sub_topic":"Disability Income",
+        "mcl_codes":null,
+        "percentage":"2%",
+        "num_items":"3"
+    }
+]
